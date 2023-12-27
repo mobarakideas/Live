@@ -1,0 +1,54 @@
+*{
+    margin: 0.1rem;
+    padding: 0.1rem;
+    box-sizing: border-box;
+}
+
+i{
+    font-size: 2em;
+}
+
+body{
+    min-height: 100vh;
+    background-color: rgb(231, 255, 247);
+    font-family:cursive ;
+    
+}
+
+
+.SearchBox{
+    position: relative;
+}
+
+.searchtext{
+    width: 20rem;
+}
+.selectionMenu{
+    position: cen;
+}
+
+.BTN{
+    margin-left: 2rem;
+    background-color: hsl(140, 100%, 59%);
+    height: 3em;
+    width: 7em;
+    border-radius: 10% ;
+    border: 2px solid black;
+    font-family:cursive ;
+}
+#session{
+    height: 3em ;
+    width: 11em;
+    border-radius: 11%;
+    font-family:cursive ;
+}
+#semester{
+    height: 3em ;
+    width: 11em;
+    font-family:cursive ;
+}
+#course{
+    height: 3em ;
+    width: 11em;
+    font-family:cursive ;
+}
